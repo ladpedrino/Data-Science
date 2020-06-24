@@ -2,7 +2,7 @@
 
 ## **Projetos:**
 
-#### **- Análise de dados em uma estação de metrô. https://bitlybr.com/VCgh3tZ**
+#### **- Análise de dados em uma estação de metrô. **
 #### **- Análise de dados de uma empresa de aluguel de bicicletas. https://bit.ly/3h8GpKQ** 
 #### **- Procurando novos doadores para uma instituição de caridade. https://bit.ly/2AfK1Kq**
 #### **- Criando segmentos de clientes para uma distribuidor. https://bit.ly/30mfCET**
