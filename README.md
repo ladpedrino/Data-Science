@@ -7,6 +7,7 @@
 #### **- Procurando novos doadores para uma instituição de caridade. https://bit.ly/2AfK1Kq**
 #### **- Criando segmentos de clientes para uma distribuidor. https://bit.ly/30mfCET**
 #### **- Análise visual da maratona de Boston. https://bit.ly/37opdwB**
+#### **- Análise de dados Airbnb da cidade de Nova York. https://bit.ly/3rIaIwj
 
 
 
