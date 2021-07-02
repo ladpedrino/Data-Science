@@ -14,7 +14,7 @@
 
 ## **Sobre mim:**
 
-##### Analista de Supply Chain em uma multinacional em São Carlos - SP e cientista de dados nas horas vagas.
+##### Data Science.
 
 #### **- Graduação em Engenharia de Produção pela UNICEP.**
 #### **- Pós Graduação em Big Data e Ciência de Dados pela PUC-MG.**
